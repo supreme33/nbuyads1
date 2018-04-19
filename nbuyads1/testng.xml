@@ -3,6 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="nbuyadspkg1.nbuyads_tc5"/>
+      <class name="nbuyadspkg1.nbuyads_tc3"/>
+      <class name="nbuyadspkg1.nbuyads_tc4"/>
       <class name="nbuyadspkg1.nbuyads_tc2"/>
     </classes>
   </test> <!-- Test -->

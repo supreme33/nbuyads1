@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="nbuyadspkg1.nbuyads_tc2">
+      <class name="nbuyadspkg1.nbuyads_tc5">
         <methods>
-          <include name="Testcase1"/>
+          <include name="Testcase"/>
         </methods>
-      </class> <!-- nbuyadspkg1.nbuyads_tc2 -->
+      </class> <!-- nbuyadspkg1.nbuyads_tc5 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
